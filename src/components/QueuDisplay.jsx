@@ -1,5 +1,5 @@
 import React from "react";
-import { RiUserUnfollowFill } from "react-icons/ri";
+import { FaUserXmark } from "react-icons/fa6";
 
 const QueuDisplay = ({ queue, UpdateStatus, RemoveData }) => {
   return (
@@ -63,7 +63,7 @@ const QueuDisplay = ({ queue, UpdateStatus, RemoveData }) => {
                 className="bg-red-500 lg:h-10 p-1 text-white w-10 flex justify-center items-center "
                 onClick={() => RemoveData(coustmer.id)}
               >
-                <RiUserUnfollowFill />
+                <FaUserXmark  />
               </button>
             </div>
           </div>
