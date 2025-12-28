@@ -1,5 +1,5 @@
 import React from "react";
-import { FaUserPlus } from "react-icons/fa6";
+import { FaUserPlus } from "react-icons/fa";
 import { useState } from "react";
 
 const QueuForm = ({ AddData }) => {
