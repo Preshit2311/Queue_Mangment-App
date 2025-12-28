@@ -1,16 +1,28 @@
-# React + Vite
+📋 Queue Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Queue Management Application built with React, Vite, and Tailwind CSS.
+It allows users to add customers to a queue, manage their service status, and remove customers when completed.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add customers with service type (Normal / Priority / VIP)
 
-## React Compiler
+Update queue status (Waiting → Serving → Complete)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Remove customers from the queue
 
-## Expanding the ESLint configuration
+Responsive UI (mobile & desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fast build with Vite
+
+🛠 Tech Stack
+
+React
+
+Vite
+
+Tailwind CSS
+
+React Icons
+<img width="1155" height="580" alt="new" src="https://github.com/user-attachments/assets/a7343b10-895d-4a51-b929-5e147019793d" />
+
