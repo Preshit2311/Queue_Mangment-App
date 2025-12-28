@@ -26,9 +26,9 @@ const App = () => {
   }
 
   return (
-    <div className="m-20 ">
+    <div className="lg:m-20 m-10 ">
       <header >
-        <h1 className="text-4xl text-center font-bold text-blue-600">Queue Managment Application </h1>
+        <h1 className="lg:text-4xl text-center font-bold text-blue-600">Queue Managment Application </h1>
         <p  className="text-gray-400 text-center text-xl">Manage your Customers effeciently</p>
       </header>
       <main className=" mt-10  flex flex-col md:flex-row">

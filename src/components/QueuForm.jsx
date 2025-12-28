@@ -20,9 +20,9 @@ const QueuForm = ({ AddData }) => {
       <form
         onSubmit={handleSubmit}
         style={{ backgroundColor: "#111" }}
-        className="rounded-2xl "
+        className="rounded-2xl   "
       >
-        <h1 className="font-bold text-2xl text-blue-600 p-4">Add to queue</h1>
+        <h1 className="font-bold text-2xl text-blue-600 p-2">Add to queue</h1>
 
         <div className="flex flex-col gap-3  px-2 m-2 py-8  lg:px-7 lg:py-8 ">
           <input
