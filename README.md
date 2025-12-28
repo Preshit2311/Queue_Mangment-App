@@ -1,28 +1,28 @@
-📋 Queue Management App
+# 📋 Queue Management App
 
-A simple and responsive Queue Management Application built with React, Vite, and Tailwind CSS.
-It allows users to add customers to a queue, manage their service status, and remove customers when completed.
+A simple and responsive **Queue Management Application** built using **React**, **Vite**, and **Tailwind CSS**.  
+This app helps manage customer queues efficiently by allowing users to add customers, update their service status, and remove them when completed.
 
-🚀 Features
+---
 
-Add customers with service type (Normal / Priority / VIP)
+## 🚀 Features
 
-Update queue status (Waiting → Serving → Complete)
+- Add customers to the queue
+- Select service type (Normal / Priority / VIP)
+- Update customer status (Waiting → Serving → Complete)
+- Remove customers from the queue
+- Fully responsive design (mobile & desktop)
+- Fast and optimized build with Vite
 
-Remove customers from the queue
+---
 
-Responsive UI (mobile & desktop)
+## 🛠 Tech Stack
 
-Fast build with Vite
+- React
+- Vite
+- Tailwind CSS
+- React Icons
 
-🛠 Tech Stack
 
-React
-
-Vite
-
-Tailwind CSS
-
-React Icons
 <img width="1155" height="580" alt="new" src="https://github.com/user-attachments/assets/a7343b10-895d-4a51-b929-5e147019793d" />
 
