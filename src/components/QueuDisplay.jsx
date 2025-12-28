@@ -1,5 +1,5 @@
 import React from "react";
-import { FaUserXmark } from "react-icons/fa6";
+import { FaUserXmark } from "react-icons/fa";
 
 const QueuDisplay = ({ queue, UpdateStatus, RemoveData }) => {
   return (
